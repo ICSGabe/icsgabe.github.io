@@ -42,7 +42,7 @@ I'm also a Youtube Content creator and you can check out my channel [here](https
 
 I am an active speaker at meetups and conferences related OT Cybersecurity and for speaking inquiries, feel free to email me at **strugglesec@gmail.com**. 
 
-- [Go-To Analysis for ICS Network Packet Captures](/assets/lib/images/Go-To Analysis for ICS Network Packet Captures.pdf)(March 2020)
+- [Go-To Analysis for ICS Network Packet Captures](/assets/images/Go-To Analysis for ICS Packet Captures.pdf)(March 2020)
 
 ![yup](https://pbs.twimg.com/media/ESIcN2KXUAA2ect?format=jpg&name=4096x4096)
 
